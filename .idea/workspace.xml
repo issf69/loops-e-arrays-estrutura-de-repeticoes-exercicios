@@ -6,7 +6,7 @@
   <component name="ChangeListManager">
     <list default="true" id="3487b7bd-3e48-47b9-ba91-3684c790b7b0" name="Changes" comment="first commit">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/dio/me/exercicios/arrays/Ex3_NumerosAleatorios.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/dio/me/exercicios/arrays/Ex3_NumerosAleatorios.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/dio/me/exercicios/arrays/Ex4_ArrayMultidimensional.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/dio/me/exercicios/arrays/Ex4_ArrayMultidimensional.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -44,7 +44,7 @@
     "RunOnceActivity.ShowReadmeOnStart": "true"
   }
 }]]></component>
-  <component name="RunManager" selected="Application.Ex3_NumerosAleatorios">
+  <component name="RunManager" selected="Application.Ex4_ArrayMultidimensional">
     <configuration name="Ex1_NomeEIdade" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="dio.me.exercicios.loops.Ex1_NomeEIdade" />
       <module name="loops-e-arrays-estrutura-de-repeticoes" />
@@ -97,12 +97,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="MaiorEMedia" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="dio.me.exercicios.loops.comentado.MaiorEMedia" />
+    <configuration name="Ex4_ArrayMultidimensional" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="dio.me.exercicios.arrays.Ex4_ArrayMultidimensional" />
       <module name="loops-e-arrays-estrutura-de-repeticoes" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="dio.me.exercicios.loops.comentado.*" />
+          <option name="PATTERN" value="dio.me.exercicios.arrays.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -112,11 +112,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.Ex4_ArrayMultidimensional" />
         <item itemvalue="Application.Ex3_NumerosAleatorios" />
         <item itemvalue="Application.Ex2_Consoantes" />
         <item itemvalue="Application.Ex1_OrdemInversa" />
         <item itemvalue="Application.Ex1_NomeEIdade" />
-        <item itemvalue="Application.MaiorEMedia" />
       </list>
     </recent_temporary>
   </component>
@@ -171,7 +171,14 @@
       <option name="project" value="LOCAL" />
       <updated>1655574231050</updated>
     </task>
-    <option name="localTasksCounter" value="7" />
+    <task id="LOCAL-00007" summary="first commit">
+      <created>1655585522711</created>
+      <option name="number" value="00007" />
+      <option name="presentableId" value="LOCAL-00007" />
+      <option name="project" value="LOCAL" />
+      <updated>1655585522711</updated>
+    </task>
+    <option name="localTasksCounter" value="8" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
