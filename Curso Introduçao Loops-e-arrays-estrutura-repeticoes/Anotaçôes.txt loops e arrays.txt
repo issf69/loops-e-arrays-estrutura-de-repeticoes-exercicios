@@ -1,3 +1,58 @@
 🔷Link para estudos Loops e Arrays:https://github.com/cami-la/loops-e-arrays.
 
 👣Escola dio.me: Escola on-line Primeiros passos no conhecimento de tecnologia.
+# package dio.me.exercicios.loops;
+
+import javax.sound.midi.Soundbank;
+import java.sql.SQLOutput;
+import java.util.Scanner;
+
+/*
+Faça um programa que leia conjuntos de dois valores,
+o primeiro representando o nome do aluno e o segundo representando a sua idade.
+(Pare o programa inserindo o valor 0 no campo nome)
+*/
+public class Ex1_NomeEIdade {
+    public static void main(String[] args) {
+        Scanner scan = new Scanner(System.in);
+
+        String nome;
+        int idade;
+
+        while(true) {
+            System.out.println("Nome: ");
+            nome = scan.next();
+            if (nome.equals("0")) break;
+            System.out.println("Idade: ");
+            idade = scan.nextInt();
+
+        }
+
+        System.out.println("continua aqui ...");
+
+
+    }
+}
+
+## C:\Users\Irene\.jdks\openjdk-18.0.1.1\bin\java.exe "-javaagent:C:\Program Files\JetBrains\IntelliJ IDEA Community Edition 2022.1.1\lib\idea_rt.jar=53031:C:\Program Files\JetBrains\IntelliJ IDEA Community Edition 2022.1.1\bin" -Dfile.encoding=UTF-8 -classpath C:\Users\Irene\Documents\Loops-e-arrays-estrutura-repeticoes\loops-e-arrays-estrutura-de-repeticoes\out\production\loops-e-arrays-estrutura-de-repeticoes dio.me.exercicios.loops.Ex1_NomeEIdade
+Nome: 
+camila
+Idade: 
+27
+Nome: 
+vera
+Idade: 
+25
+Nome: 
+vera
+Idade: 
+25
+Nome: 
+valeria
+Idade: 
+25
+Nome: 
+0
+continua aqui ...
+
+Process finished with exit code 0
