@@ -1,7 +1,9 @@
 🔷Link para estudos Loops e Arrays:https://github.com/cami-la/loops-e-arrays.
 
 👣Escola dio.me: Escola on-line Primeiros passos no conhecimento de tecnologia.
-# package dio.me.exercicios.loops;
+#   Ex1_NomeEIdade
+
+package dio.me.exercicios.loops;
 
 import javax.sound.midi.Soundbank;
 import java.sql.SQLOutput;
